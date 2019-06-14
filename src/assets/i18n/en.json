@@ -1,0 +1,8 @@
+{
+    "WALLET_NAME" : "Delegacy",
+    "MENU" : {
+        "LOGIN" : "Log in",
+        "LANGUAGE" : "Language",
+        "SINGUP" : "Sign up"
+    }
+}
